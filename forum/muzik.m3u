@@ -145,8 +145,6 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-name="Kuriakos Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Activa TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",Activa TV
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-name="30A TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",30A TV
 https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-name="Biz Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",Biz Music
@@ -175,8 +173,6 @@ https://eco.streams.ovh:8081/barazatv/playlist.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #EXTINF:-1 tvg-name="Sky Folk" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",Sky Folk
 https://us.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-name="California Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",California Music
-https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 #EXTINF:-1 tvg-name="Radyo Italia TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",Radyo Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" group-title="Yabancı Müzik Kanalları",Kronehit TV
