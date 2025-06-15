@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Arma Tv" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Arma Tv
+#EXTINF:-1 tvg-name="Arma Tv" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Arma Tv
 #EXTVLCOPT:http-referrer=https://tvsms.club/arma-tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
 https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
-#EXTINF:-1 tvg-name="Genç Tv" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Genç Tv
+#EXTINF:-1 tvg-name="Genç Tv" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Genç Tv
 #EXTVLCOPT:http-referrer=https://tvsms.club/genc-tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
 https://tvsms.club/tvz.php?kanal=genctv&file=.m3u8
-#EXTINF:-1 tvg-name="Arabesk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Arabesk
+#EXTINF:-1 tvg-name="Arabesk" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Arabesk
 https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-#EXTINF:-1 tvg-name="Damar" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Damar
+#EXTINF:-1 tvg-name="Damar" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Damar
 https://yayin.santraltr.com/hls/damar.m3u8
-#EXTINF:-1 tvg-name="Dost" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Dost
+#EXTINF:-1 tvg-name="Dost" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Dost
 https://yayin.santraltr.com/hls/dost.m3u8
-#EXTINF:-1 tvg-name="Ezo" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Ezo
+#EXTINF:-1 tvg-name="Ezo" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Ezo
 https://yayin.santraltr.com/hls/ezo.m3u8
-#EXTINF:-1 tvg-name="Sıla" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Sıla
+#EXTINF:-1 tvg-name="Sıla" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Sıla
 https://yayin.santraltr.com/hls/silatv.m3u8
-#EXTINF:-1 tvg-name="Viva TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Viva TV
+#EXTINF:-1 tvg-name="Viva TV" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Viva TV
 https://yayin.santraltr.com/hls/vivatv.m3u8
-#EXTINF:-1 tvg-name="Güçlü TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Güçlü TV
+#EXTINF:-1 tvg-name="Güçlü TV" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Güçlü TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
-#EXTINF:-1 tvg-name="Kral Pop" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Kral Pop
+#EXTINF:-1 tvg-name="Kral Pop" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Kral Pop
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
-#EXTINF:-1 tvg-name="PowerTürk" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",PowerTürk
+#EXTINF:-1 tvg-name="PowerTürk" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",PowerTürk
 https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/chunks.m3u8
-#EXTINF:-1 tvg-name="Tempo TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Tempo TV
+#EXTINF:-1 tvg-name="Tempo TV" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Tempo TV
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/chunks.m3u8
-#EXTINF:-1 tvg-name="TopPop" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",TopPop
+#EXTINF:-1 tvg-name="TopPop" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",TopPop
 https://yayin.santraltr.com/hls/toppop.m3u8
-#EXTINF:-1 tvg-name="Number1 Dance" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Number1 Dance
+#EXTINF:-1 tvg-name="Number1 Dance" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Number1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Dance" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Dance
+#EXTINF:-1 tvg-name="Power Türk Dance" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Love" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Love
+#EXTINF:-1 tvg-name="Power Türk Love" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Love
 https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Akustik" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Akustik
+#EXTINF:-1 tvg-name="Power Türk Akustik" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Akustik
 https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Slow" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Slow
+#EXTINF:-1 tvg-name="Power Türk Slow" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Slow
 https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Türk Taptaze" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Taptaze
+#EXTINF:-1 tvg-name="Power Türk Taptaze" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Türk Taptaze
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Power Tv" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Tv
+#EXTINF:-1 tvg-name="Power Tv" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Akıllı TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Akıllı TV
+#EXTINF:-1 tvg-name="Akıllı TV" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",Akıllı TV
 https://yayin.santraltr.com/hls/rosatv.m3u8
 #EXTINF:-1 tvg-name="TRT Türkü" tvg-id="TRT Türkü.tr" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio9FMttnrYYK0-ew58PKgCCQ4T4Yd5kHYES2VN37vsIBpsLFz4hgnLPzt9MPa7fIvz-MmVT13-D3bn0LRyMZmy885Io2nEzICPdBAg4BW3y5hp0Cw0QG5wHr3DgR2bxtngJwfr9w4rOnxn/s1600-rw/22.jpg" tvg-language="Türkçe" group-title="Türkçe Müzik Kanalları",TRT Türkü
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
@@ -99,7 +99,7 @@ https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-name="MTV Live" tvg-id="MTVLive.us" tvg-logo="https://i.imgur.com/3UByLqb.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",MTV Live
 https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="Mezzo" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Mezzo
+#EXTINF:-1 tvg-name="Mezzo" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Mezzo
 https://vavoo.to/play/1583754502/index.m3u8
 #EXTINF:-1 tvg-name="Stingray: Hitlist (Original)" tvg-id="stingray-hit-list" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/04f1c1b9-2e32-4464-825c-4aa740b3981f-stingray-hitlist-1607508431.jpeg" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Stingray: Hitlist (Original)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2080&ads.rakuten_streaming_id=1e8ef1b2-ff6e-4c3b-af76-af43482a31dd&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_streamId=88883054
@@ -125,82 +125,82 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://daiconnect.com/live/hls/tvup/rk-flamenco/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5965&ads_rtv_content_language=spa&ads_streaming_id=450d4745-8622-4ee1-8bd1-16365a1e19f4&ads_tcs_channel_id=5127&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 #EXTINF:-1 tvg-name="NOW 80s (Original)" tvg-id="now-80s" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/b696c4d2-540d-4ce5-af19-9d9f27271a48.jpeg" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",NOW 80s (Original)
 https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5318&ads_rtv_content_language=eng&ads_rtvid=271859&ads_streaming_id=9d428cea-a079-43bf-91aa-161ef89acf4b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-#EXTINF:-1 tvg-name="V2Beat Tv" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",V2Beat Tv
+#EXTINF:-1 tvg-name="V2Beat Tv" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",V2Beat Tv
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-name="Parsa TVM20 TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Parsa TVM20 TV
+#EXTINF:-1 tvg-name="Parsa TVM20 TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Parsa TVM20 TV
 https://streamcdng2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-name="Vevo Schlager Pop" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Vevo Schlager Pop
+#EXTINF:-1 tvg-name="Vevo Schlager Pop" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Vevo Schlager Pop
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Vevo Pop
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Vevo Pop
 https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="4 Fun TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",4 Fun TV
+#EXTINF:-1 tvg-name="4 Fun TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",4 Fun TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
-#EXTINF:-1 tvg-name="Kiss TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kiss TV
+#EXTINF:-1 tvg-name="Kiss TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kiss TV
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-#EXTINF:-1 tvg-name="Kuriakos Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kuriakos Music
+#EXTINF:-1 tvg-name="Kuriakos Music" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kuriakos Music
 https://w2.manasat.com/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="30A TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",30A TV
+#EXTINF:-1 tvg-name="30A TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",30A TV
 https://30a-tv.com/music.m3u8
-#EXTINF:-1 tvg-name="Biz Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Biz Music
+#EXTINF:-1 tvg-name="Biz Music" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Biz Music
 https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="1 HD Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",1 HD Music
+#EXTINF:-1 tvg-name="1 HD Music" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",1 HD Music
 https://msk2.peers.tv/streaming/firstmuz/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg3Mzc0MTksImlhdCI6MTc0ODY1MTAxOSwiY2lkIjo4MSwidWlkIjo5MjA1MzIyOTAsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.Nos2Wmp70Mn7IiMqwZIQRpdAIEXYRBzE7d3_sBsuaxI
-#EXTINF:-1 tvg-name="M2 Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",M2 Music
+#EXTINF:-1 tvg-name="M2 Music" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",M2 Music
 https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 tvg-name="Circle Country" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Circle Country
+#EXTINF:-1 tvg-name="Circle Country" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Circle Country
 https://circle-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Kiss Kiss Italia" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kiss Kiss Italia
+#EXTINF:-1 tvg-name="Kiss Kiss Italia" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kiss Kiss Italia
 https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Piter Pan TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Radio Piter Pan TV
+#EXTINF:-1 tvg-name="Radio Piter Pan TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ocko Express" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Ocko Express
+#EXTINF:-1 tvg-name="Ocko Express" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Ocko Express
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_expres.stream.1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Ocko Gold" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Ocko Gold
+#EXTINF:-1 tvg-name="Ocko Gold" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Ocko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="Ocko TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Ocko TV
+#EXTINF:-1 tvg-name="Ocko TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Ocko TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="NRG 91" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",NRG 91
+#EXTINF:-1 tvg-name="NRG 91" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",NRG 91
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Baraza TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Baraza TV
+#EXTINF:-1 tvg-name="Baraza TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Baraza TV
 https://eco.streams.ovh:8081/barazatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Tierra Mia" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Tierra Mia
+#EXTINF:-1 tvg-name="Tierra Mia" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Tierra Mia
 https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-#EXTINF:-1 tvg-name="Sky Folk" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Sky Folk
+#EXTINF:-1 tvg-name="Sky Folk" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Sky Folk
 https://us.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-name="Radyo Italia TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Radyo Italia TV
+#EXTINF:-1 tvg-name="Radyo Italia TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Radyo Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kronehit TV
+#EXTINF:-1 tvg-name="Kronehit TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Kronehit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Deejay TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Deejay TV
+#EXTINF:-1 tvg-name="Deejay TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Deejay TV
 https://streamcdng4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Retro Music
+#EXTINF:-1 tvg-name="Retro Music" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Retro Music
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Capital TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Radio Capital TV
+#EXTINF:-1 tvg-name="Radio Capital TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Radio Capital TV
 https://streamcdng12-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-name="Q Music NL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Q Music NL
+#EXTINF:-1 tvg-name="Q Music NL" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Q Music NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1 tvg-name="Spirit TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Spirit TV
+#EXTINF:-1 tvg-name="Spirit TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/playlist.m3u8
-#EXTINF:-1 tvg-name="Magic TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Magic TV
+#EXTINF:-1 tvg-name="Magic TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Magic TV
 https://bss1.neterra.tv/magictv/magictv.m3u8
-#EXTINF:-1 tvg-name="Music Box Russia (RU)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Music Box Russia (RU)
+#EXTINF:-1 tvg-name="Music Box Russia (RU)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Music Box Russia (RU)
 https://132544.edgevideo.ru/streams/132544_713325/132544480/index.m3u8
-#EXTINF:-1 tvg-name="Deluxe Music (Almanya)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Deluxe Music (Almanya)
+#EXTINF:-1 tvg-name="Deluxe Music (Almanya)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Deluxe Music (Almanya)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-name="Vibe 2 Beat" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Vibe 2 Beat
+#EXTINF:-1 tvg-name="Vibe 2 Beat" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Vibe 2 Beat
 #EXTVLCOPT:http-referrer=https://cdn.bg-gledai.video/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=https://cdn.bg-gledai.video
 https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-name="Now Rock Live" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Now Rock Live
+#EXTINF:-1 tvg-name="Now Rock Live" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Now Rock Live
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
-#EXTINF:-1 tvg-name="Tiankov TV (Bulgaristan)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Tiankov TV (Bulgaristan)
+#EXTINF:-1 tvg-name="Tiankov TV (Bulgaristan)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Tiankov TV (Bulgaristan)
 https://streamer103.neterra.tv/tiankov-orient/live.m3u8
-#EXTINF:-1 tvg-name="The Voice (Bulgaristan)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",The Voice (Bulgaristan)
+#EXTINF:-1 tvg-name="The Voice (Bulgaristan)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",The Voice (Bulgaristan)
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
-#EXTINF:-1 tvg-name="Trace Urban" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Trace Urban
+#EXTINF:-1 tvg-name="Trace Urban" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Trace Urban
 https://amg01076-lightningintern-traceurban-xiaomi-m78n3.amagi.tv/playlist/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="Number 1 TV" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Number 1 TV
+#EXTINF:-1 tvg-name="Number 1 TV" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Number 1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 #EXTINF:-1 tvg-name="Stingray Hip-Hop" tvg-id="USBD3500010MT" tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Stingray Hip-Hop
 https://jmp2.uk/sam-USBD3500010MT.m3u8
@@ -214,23 +214,23 @@ https://jmp2.uk/sam-GBBD2300001C0.m3u8
 https://jmp2.uk/sam-USBC3900009K5.m3u8
 #EXTINF:-1 tvg-name="XITE R&B Classic Jams" tvg-id="USBD330000948" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2024/01/18134622/XITE-RB-Classic-Jams.jpg" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",XITE R&B Classic Jams
 https://jmp2.uk/sam-USBD330000948.m3u8
-#EXTINF:-1 tvg-name="Muzzik Electro" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Muzzik Electro
+#EXTINF:-1 tvg-name="Muzzik Electro" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Yabancı Dil" group-title="Yabancı Müzik Kanalları",Muzzik Electro
 https://muzzik-live.morescreens.com/mts-9/576p/chunklist.m3u8
-#EXTINF:-1 tvg-name="TRT Nağme (Radyo)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Nağme (Radyo)
+#EXTINF:-1 tvg-name="TRT Nağme (Radyo)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Nağme (Radyo)
 https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-name="TRT Radyo3" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Radyo3
+#EXTINF:-1 tvg-name="TRT Radyo3" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Radyo3
 https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-name="TRT Türkü (Radyo)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Türkü (Radyo)
+#EXTINF:-1 tvg-name="TRT Türkü (Radyo)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Türkü (Radyo)
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-name="TRT Memleketim (Radyo)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Memleketim (Radyo)
+#EXTINF:-1 tvg-name="TRT Memleketim (Radyo)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",TRT Memleketim (Radyo)
 https://radio-trtmemleketimfm.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-name="Pal Nostalji (Radyo)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Pal Nostalji (Radyo)
+#EXTINF:-1 tvg-name="Pal Nostalji (Radyo)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Pal Nostalji (Radyo)
 https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
-#EXTINF:-1 tvg-name="Turkuvaz Radyo" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Turkuvaz Radyo
+#EXTINF:-1 tvg-name="Turkuvaz Radyo" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Turkuvaz Radyo
 https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
-#EXTINF:-1 tvg-name="Turkuvaz Musiki (Radyo)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Turkuvaz Musiki (Radyo)
+#EXTINF:-1 tvg-name="Turkuvaz Musiki (Radyo)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Turkuvaz Musiki (Radyo)
 https://trkvz-radyolar.ercdn.net/turkuvazmusiki/chunklist.m3u8
-#EXTINF:-1 tvg-name="Turkuvaz Nostalji (Radyo)" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Turkuvaz Nostalji (Radyo)
+#EXTINF:-1 tvg-name="Turkuvaz Nostalji (Radyo)" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Turkuvaz Nostalji (Radyo)
 https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
-#EXTINF:-1 tvg-name="Radyo Enerji" tvg-id="" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Radyo Enerji
+#EXTINF:-1 tvg-name="Radyo Enerji" tvg-id="" tvg-logo=https://raw.githubusercontent.com/GitLatte/temporarylists/refs/heads/main/img/muzik-kanallari.png" tvg-language="Türkçe" group-title="Türkiye Radyo Yayınları",Radyo Enerji
 https://trkvz-radyolar.ercdn.net/radyoenergy/chunklist.m3u8
