@@ -1,4 +1,4 @@
-name: Listeleri Güncelleyelim
+name: Listeleri yenile
 
 on:
   schedule:
